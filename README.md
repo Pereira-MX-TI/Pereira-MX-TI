@@ -1,7 +1,7 @@
 <div align="center"><h1 align="center">Hi, I’m Luis Oscar Pereira</h1>
 
 </div>
-<img src="https://pereira-mx-ti.s3.us-east-1.amazonaws.com/banner_presentation.png">
+<img src="https://pereira-mx-ti.s3.us-east-1.amazonaws.com/banner.png">
 <p align="center">
   💻 Web Developer &nbsp;|&nbsp; 📱 Mobile Developer &nbsp;|&nbsp; 🛠️ Backend Development
 </p>
@@ -15,6 +15,14 @@ I am a passionate software developer, focused on creating intuitive, scalable, a
   <li>📱 Mobile Development (Ionic)</li>
   <li>🛠️ Backend Development (Php, MySQL)</li>
   <li>🌐 IoT Development (LoraWan)</li>
+</ul>
+
+<h2>Education</h2>
+<ul>
+  <li>Professional IT technician from Conalep</li>
+  <li>Bachelor’s Degree in Software Engineering from Benemérita Universidad Autónoma de Puebla (BUAP)</li>
+  <li>Platzi certificates</li>
+  <li>Udemy certificates</li>
 </ul>
 
 <h2>Frameworks & Tools</h2>
